@@ -1,7 +1,7 @@
 FROM golang:1-alpine AS build
 
-ARG VERSION="0.8.0"
-ARG CHECKSUM="9ee3238b234c640b3380d92ea629060e76c3b104bb38dd31e1890f5ba550996d"
+ARG VERSION="0.8.1"
+ARG CHECKSUM="db07a2bffbb793b065bd4016221064a7cceb503e506f6462e4037241052e4608"
 
 ADD https://github.com/prometheus/influxdb_exporter/archive/v$VERSION.tar.gz /tmp/influxdb_exporter.tar.gz
 
