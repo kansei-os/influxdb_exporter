@@ -9,13 +9,13 @@
 
 Available on Docker Hub as [`docker.io/ricardbejarano/influxdb_exporter`](https://hub.docker.com/r/ricardbejarano/influxdb_exporter):
 
-- [`0.8.1`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.9.0`, `latest` *(Dockerfile)*](Dockerfile)
 
 ### RedHat Quay
 
 Available on RedHat Quay as [`quay.io/ricardbejarano/influxdb_exporter`](https://quay.io/repository/ricardbejarano/influxdb_exporter):
 
-- [`0.8.1`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.9.0`, `latest` *(Dockerfile)*](Dockerfile)
 
 
 ## Features
